@@ -1,6 +1,6 @@
 # 🐚 Simple Unix Shell (C)
 
-A **minimal Unix shell implemented from scratch in C**, built as part of an **Operating Systems assignment**.
+A **minimal Unix shell implemented from scratch in C**.
 This shell reads user commands, parses them, executes system programs using Unix system calls, and maintains execution history.
 
 ---
@@ -127,8 +127,3 @@ Only commands from the **current invocation** are displayed.
 * File descriptor duplication (`dup2`)
 * Parent-child synchronization (`wait`)
 * Command parsing & tokenization
-* Make it **ATS / recruiter-friendly**
-* Split features into **basic vs bonus**
-* Align it with **resume bullet points**
-
-Just tell me.
